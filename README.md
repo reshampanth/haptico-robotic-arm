@@ -1,6 +1,6 @@
 # Haptico - Haptics enabled Remote Controlled Robotic Arm
 
-Haptico Robot is a robotic interface which can provide haptic feedback to the user. 
+Haptico Robot is a robotic interface built on Arduino which can be remotely controlled by a user wearing the control glove and simulating the user's actions while providing haptic feedback (Touch Feelings) to the user. 
 
 In our project, we are building a robotic arm that will imitate the users hand motions and gestures, and will be providing real time ‘feelings’ to the user. 
 
